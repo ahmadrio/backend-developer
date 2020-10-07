@@ -15,7 +15,8 @@ Untuk menjadi backend developper anda perlu beberapa referensi dan tools penduku
 - PHPStorm (Berbayar)
 - Visual Studio Code (Gratis)
 - Sublime Text (Gratis)
-- TablePlus (Berbayar)
+- TablePlus untuk semua database (Berbayar)
+- PHPMyadmin hanya untuk MySQL (Gratis)
 - ...
 
 ### Contributors
