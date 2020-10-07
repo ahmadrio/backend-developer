@@ -1,6 +1,6 @@
-# Backend Developper
+# Backend Developer
 
-Untuk menjadi backend developper anda perlu beberapa referensi dan tools pendukung agar memudahkan anda membuat suatu projek.
+Untuk menjadi backend developer anda perlu beberapa referensi dan tools pendukung agar memudahkan anda membuat suatu projek.
 
 ### Referensi Pemula & Lanjutan
 
